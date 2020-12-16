@@ -1,8 +1,7 @@
 
 ## TODO;
 
-
-
+- User table seeder
 - Authentication
 - email verifications
 - Multi Gaurd Authentication
